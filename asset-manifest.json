@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tomy619/github-host-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tomy619/github-host-test/static/js/main.c07ab131.chunk.js",
+    "main.js.map": "/tomy619/github-host-test/static/js/main.c07ab131.chunk.js.map",
+    "runtime-main.js": "/tomy619/github-host-test/static/js/runtime-main.1bd21de2.js",
+    "runtime-main.js.map": "/tomy619/github-host-test/static/js/runtime-main.1bd21de2.js.map",
+    "static/js/2.49af27e0.chunk.js": "/tomy619/github-host-test/static/js/2.49af27e0.chunk.js",
+    "static/js/2.49af27e0.chunk.js.map": "/tomy619/github-host-test/static/js/2.49af27e0.chunk.js.map",
+    "index.html": "/tomy619/github-host-test/index.html",
+    "precache-manifest.3668516cb160d7545a5bb34e517ace54.js": "/tomy619/github-host-test/precache-manifest.3668516cb160d7545a5bb34e517ace54.js",
+    "service-worker.js": "/tomy619/github-host-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tomy619/github-host-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.49af27e0.chunk.js.LICENSE.txt": "/tomy619/github-host-test/static/js/2.49af27e0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tomy619/github-host-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bd21de2.js",
+    "static/js/2.49af27e0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c07ab131.chunk.js"
+  ]
+}
